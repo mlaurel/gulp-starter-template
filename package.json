@@ -1,9 +1,9 @@
 {
-  "name": "simple-starter",
+  "name": "gulp-starter-template",
   "version": "1.0.0",
   "description": "Simple web starter with proper dev-tooling in place. Easy for you to get started coding!",
-  "main": "index.js",
-  "author": "Zell Liew",
+  "main": "index.html",
+  "author": "Mike Laurel",
   "license": "ISC",
   "scripts": {
     "dev": "gulp"
